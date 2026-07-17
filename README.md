@@ -1,7 +1,5 @@
-![Uploading banner.png…]()
-<p align="center">
-  <img src="banner.png" alt="Research Internships for CS and STEM Students" width="100%">
-</p>
+# Research Internships for CS and STEM Students
+
 A curated, country-by-country list of research internships and summer research programs for Computer Science and STEM students worldwide.
 
 This repository aims to help students discover research opportunities through official university and research institution websites.
