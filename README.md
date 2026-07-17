@@ -55,5 +55,8 @@ This repository aims to help students discover research opportunities through of
 * [🇺🇸 United States](#-united-states)
 
 
+## 🇦🇺 Australia
 
-
+| Program                                                                               | Institution | Fields                                                                  | Eligibility                                                                                | International Students | Funding                            | Deadline | Status                |
+| ------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------- | ---------------------------------- | -------- | --------------------- |
+| [Undergraduate Research Placements](https://www.wehi.edu.au/education/undergraduate/) | WEHI        | Biomedical Science, Medicine, Mathematics, Statistics, Computer Science | Undergraduate students, typically after 1–2 years of study; requirements vary by placement | ✅ Yes                  | Varies by placement or scholarship | Varies   | 🟡 Opportunities vary |
