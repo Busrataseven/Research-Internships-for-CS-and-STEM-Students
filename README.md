@@ -7,10 +7,6 @@ This repository aims to help students discover research opportunities through of
 
 ## Browse by Country
 
-## Browse by Country
-
-## Browse by Country
-
 * [🇦🇺 Australia](#-australia)
 * [🇦🇹 Austria](#-austria)
 * [🇧🇪 Belgium](#-belgium)
