@@ -1,3 +1,4 @@
+![Uploading banner.png…]()
 <p align="center">
   <img src="banner.png" alt="Research Internships for CS and STEM Students" width="100%">
 </p>
