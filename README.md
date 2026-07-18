@@ -26,7 +26,6 @@ This repository aims to help students discover research opportunities through of
 * [🇳🇿 New Zealand](#-new-zealand)
 * [🇳🇴 Norway](#-norway)
 * [🇵🇱 Poland](#-poland)
-* [🇵🇹 Portugal](#-portugal)
 * [🇸🇦 Saudi Arabia](#-saudi-arabia)
 * [🇸🇬 Singapore](#-singapore)
 * [🇰🇷 South Korea](#-south-korea)
@@ -190,6 +189,25 @@ This repository aims to help students discover research opportunities through of
 | Program                                                                                     | Institution                                                             | Fields                                                              | Eligibility                                          | International Students    |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------- |
 | [Internship Program for Students](https://www.iimcb.gov.pl/en/career-education/internships) | International Institute of Molecular and Cell Biology in Warsaw (IIMCB) | Molecular Biology, Cell Biology, Genetics and related Life Sciences | Bachelor’s and master’s students or recent graduates | ✅ Yes — all nationalities |
+
+
+## 🇸🇦 Saudi Arabia
+
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [Visiting Student Research Program (VSRP)](https://admissions.kaust.edu.sa/study/internships) | King Abdullah University of Science and Technology (KAUST) | Computer Science, AI, Engineering, Mathematics, Physical Sciences, Biological Sciences and related STEM fields | Third- and fourth-year bachelor’s students and master’s students | ✅ Yes — worldwide |
+
+
+## 🇸🇬 Singapore
+
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [IRIS@NUS](https://nusgs.nus.edu.sg/irisnus/) | National University of Singapore (NUS) | Computer Science, AI, Engineering, Sciences and other research fields | Undergraduate students who have completed at least 2 years of study | ✅ Yes — worldwide |
+| [Global Connect Fellowship](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship) | Nanyang Technological University (NTU) | AI, Machine Learning, Cybersecurity, Engineering, Materials Science, Health Sciences and related fields | Bachelor’s and research master’s students; graduation-year requirements vary by intake | ✅ Yes — worldwide |
+| [Short-Term Internship for Overseas Undergraduates](https://www.ntu.edu.sg/computing/admissions/undergraduate-programmes/short-term-internship-for-overseas-undergraduates) | NTU College of Computing and Data Science | Computer Science, AI, Data Science and related fields | Full-time undergraduate students enrolled at an overseas university who secure an NTU faculty supervisor | ✅ Yes |
+
+
+
 
 
 
