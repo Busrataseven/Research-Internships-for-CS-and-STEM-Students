@@ -23,7 +23,6 @@ This repository aims to help students discover research opportunities through of
 * [🇮🇹 Italy](#-italy)
 * [🇯🇵 Japan](#-japan)
 * [🇳🇱 Netherlands](#-netherlands)
-* [🇳🇿 New Zealand](#-new-zealand)
 * [🇳🇴 Norway](#-norway)
 * [🇵🇱 Poland](#-poland)
 * [🇸🇦 Saudi Arabia](#-saudi-arabia)
@@ -32,27 +31,10 @@ This repository aims to help students discover research opportunities through of
 * [🇪🇸 Spain](#-spain)
 * [🇸🇪 Sweden](#-sweden)
 * [🇨🇭 Switzerland](#-switzerland)
-* [🇹🇼 Taiwan](#-taiwan)
 * [🇹🇷 Türkiye](#-türkiye)
 * [🇦🇪 United Arab Emirates](#-united-arab-emirates)
 * [🇬🇧 United Kingdom](#-united-kingdom)
 * [🇺🇸 United States](#-united-states)
-* [🇦🇺 Australia](#-australia)
-* [🇦🇹 Austria](#-austria)
-* [🇨🇦 Canada](#-canada)
-* [🇫🇮 Finland](#-finland)
-* [🇫🇷 France](#-france)
-* [🇩🇪 Germany](#-germany)
-* [🇯🇵 Japan](#-japan)
-* [🇳🇱 Netherlands](#-netherlands)
-* [🇸🇦 Saudi Arabia](#-saudi-arabia)
-* [🇸🇬 Singapore](#-singapore)
-* [🇰🇷 South Korea](#-south-korea)
-* [🇨🇭 Switzerland](#-switzerland)
-* [🇹🇷 Türkiye](#-türkiye)
-* [🇬🇧 United Kingdom](#-united-kingdom)
-* [🇺🇸 United States](#-united-states)
-
 
 ## 🇦🇺 Australia
 
@@ -91,15 +73,13 @@ This repository aims to help students discover research opportunities through of
 | [Summer Research Internship Program](https://global.sjtu.edu.cn/summer-program/index.php)                                | Shanghai Jiao Tong University                        | Science, Engineering, Computer Science and interdisciplinary research           | Current undergraduate students who have completed at least 1 year of study                                                    | ✅ Yes                                   |
 | [Global Research Program](https://www.tsinghua.edu.cn/gjhz/dqyjyxx.htm)                                                  | Tsinghua University                                  | Computer Science, AI, Engineering, Energy, Life Sciences and related fields     | Undergraduate and graduate students studying outside mainland China who have completed at least 1 year of undergraduate study | ✅ Yes                                   |
 | [International Summer Lab Project](https://isd.pku.edu.cn/en/further_detail.php?tag=summer_lab)                          | Peking University                                    | Science and Engineering                                                         | Undergraduate and graduate students enrolled at universities outside China                                                    | ✅ Yes                                   |
-| [Summer Lab for International Students](https://www.shanghaitech.edu.cn/en/2018/0130/c5242a50095/page.htm)               | ShanghaiTech University                              | Physical Sciences, Life Sciences, Computer Science, Engineering and Mathematics | Undergraduate students who have completed at least 1 year of study                                                            | ⚠️ Partner or invited institutions only |
-
 
 ## 🇨🇿 Czechia
 
 | Program                                                                                                                                         | Institution               | Fields                                                                              | Eligibility                                              | International Students |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------- |
 | [Research Internships](https://www.ceitec.eu/internships/t11183)                                                                                | CEITEC Masaryk University | Life Sciences, Chemistry, Computer Science, Engineering                             | Bachelor’s, master’s and equivalent programme students   | ✅ Yes                  |
-| [Research Lab Internships](https://newsletter.czs.muni.cz/en/summer-schools/archiv/pu-applications-open-masaryk-university-summer-schools-2026) | Masaryk University        | Chemistry, Physics, Biomedicine, Toxicology, Biology, Biophysics and related fields | Undergraduate students interested in laboratory research | ✅ Yes                  |
+
 
 
 ## 🇩🇰 Denmark
@@ -154,7 +134,7 @@ This repository aims to help students discover research opportunities through of
 
 | Program                                                                    | Institution                           | Fields                                                                              | Eligibility                                                                        | International Students                |
 | -------------------------------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------- |
-| [Erasmus+ Research Internships](https://www.iit.it/education/erasmus-plus) | Italian Institute of Technology (IIT) | AI, Computational Science, Robotics, Nanomaterials, Neuroscience and related fields | Students enrolled in relevant university programmes; requirements vary by position | ✅ Yes — Erasmus+ eligibility required |
+| [Erasmus+ Research Internships](https://www.iit.it/education/erasmus-plus) | Italian Institute of Technology (IIT) | AI, Computational Science, Robotics, Nanomaterials, Neuroscience and related fields | Students enrolled in relevant university programmes; requirements vary by position | ✅ Yes, for masters — Erasmus+ eligibility required |
 
 
 ## 🇯🇵 Japan
@@ -207,67 +187,88 @@ This repository aims to help students discover research opportunities through of
 | [Short-Term Internship for Overseas Undergraduates](https://www.ntu.edu.sg/computing/admissions/undergraduate-programmes/short-term-internship-for-overseas-undergraduates) | NTU College of Computing and Data Science | Computer Science, AI, Data Science and related fields | Full-time undergraduate students enrolled at an overseas university who secure an NTU faculty supervisor | ✅ Yes |
 
 
+## 🇰🇷 South Korea
+
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [POSTECH Summer Program](https://ir.postech.ac.kr/ir/in/summer-program.do) | POSTECH | Computer Science, Engineering, Natural Sciences and other STEM fields | Currently enrolled undergraduate and master’s students | ✅ Yes — partner and non-partner universities |
+| [KAIST Summer Research Internship](https://summer.kaist.ac.kr/programs/program2) | KAIST | Science, Technology, Engineering and Mathematics | Undergraduate STEM students | ✅ Yes — strategic partner universities only |
+| [Global Intern Program](https://www.gist.ac.kr/en/html/sub07/0702.html) | Gwangju Institute of Science and Technology (GIST) | Computer Science, Engineering, Physics, Chemistry, Biology and related fields | Final-year undergraduate and master’s students | ✅ Yes — international students |
+| [Graduate School Research Internship](https://www.dgist.ac.kr/eng/sub06_03_03_02.do) | Daegu Gyeongbuk Institute of Science and Technology (DGIST) | Computer Science, Robotics, Physics, Chemistry, Energy and Brain Sciences | Undergraduate students who have completed at least 4 semesters | ✅ Yes — international students |
+| [KAI-X Summer Research Internship](https://kai-x.kaist.ac.kr/boards/view/menu_05_02_en/13) | KAIST Advanced Institute for Science-X | Physics, Chemistry, Mathematics, Biology and related sciences | Third- and fourth-year undergraduate students studying overseas | ✅ Yes |
 
 
+## 🇪🇸 Spain
+
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [Student Research Fellowships](https://www.icfo.eu/studies/internship/fellowships/student_research_fellowships/) | ICFO | Physics, Photonics, Engineering, Mathematics, Chemistry, Biology | Undergraduate and master’s students | ✅ Yes — worldwide |
+| [Summer Training Programme](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/) | Spanish National Cancer Research Centre (CNIO) | Biomedicine, Life Sciences, Bioinformatics | Undergraduate students in the final years of their degree | ✅ Yes — any country |
+| [Research Internships](https://www.crg.eu/en/content/training/undergraduates-and-masters) | Centre for Genomic Regulation (CRG) | Genomics, Bioinformatics, Life Sciences and related fields | Undergraduate and master’s students with a university learning agreement | ✅ Yes — all nationalities |
 
 
+## 🇸🇪 Sweden
+
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [Amgen Scholars Program](https://education.ki.se/student-at-ki/studies-and-traineeships-abroad/amgen-scholars-program-at-karolinska-institutet) | Karolinska Institutet | Biomedical Sciences, Molecular Biology, Neuroscience and Immunology | Undergraduate students enrolled in eligible European/Bologna Process countries | ✅ Yes |
+| [Summer Research Internship Programme](https://www.digitalfutures.kth.se/digital-futures-summer-research-internship-programme-2026-kicks-off-with-86-students/) | Digital Futures, KTH & Stockholm University | AI, Digital Technologies, Sustainability and Information Systems | Undergraduate and master’s students selected through KTH, Stockholm University or participating international partnerships | ⚠️ Selected universities and exchange routes |
+| [Nano Area of Advance Undergraduate Internships](https://www.chalmers.se/en/current/news/nano-area-of-advance-creates-opportunities-for-chalmers-students/) | Chalmers University of Technology | Nanoscience, Materials Science, Chemistry, Engineering and related fields | Undergraduate students from Chalmers or other universities; placement requires a suitable host and project | ✅ Yes — international students accepted |
 
 
+## 🇨🇭 Switzerland
+
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [ETH Student Summer Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | ETH Zürich | Computer Science, AI, Security, Robotics, Software Engineering and related fields | Bachelor’s and master’s students; expected graduation must be after the fellowship | ✅ Yes — worldwide |
+| [Summer@EPFL](https://summer.epfl.ch/) | EPFL | Computer Science, Computer Engineering, Telecommunications and Electrical Engineering | Bachelor’s students from the second year onward and master’s students | ✅ Yes — worldwide |
+| [Life Sciences Summer Research Program](https://www.epfl.ch/schools/sv/education/summer-research-program/) | EPFL | Biology, Bioengineering, Bioinformatics, Chemistry and related fields | Bachelor’s students who have completed at least 2 years and first-year master’s students | ✅ Yes — worldwide |
+| [CERN Summer Studentship](https://careers.cern/programmes/summer-studentship/) | CERN | Physics, Engineering, Computer Science and Mathematics | Bachelor’s and master’s students who have completed at least 6 semesters | ✅ Yes — nationality conditions may vary |
 
 
+## 🇹🇷 Türkiye
+
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [PURE Summer Research Program](https://pure.sabanciuniv.edu/) | Sabancı University | Computer Science, Engineering, Natural Sciences, Social Sciences and other research fields | Undergraduate students from all years and departments | ✅ Yes — worldwide |
+| [Koç University Summer Research Program](https://research.ku.edu.tr/research-outreach/summer-research/kusrp/) | Koç University | Computer Science, AI, Engineering, Natural Sciences and interdisciplinary research | Undergraduate students; requirements vary by project | ✅ Yes |
+| [Undergraduate Research Summer Program](https://www.ozyegin.edu.tr/en/research/summer-research-program/undergraduate-research-summer-internship-program/undergraduate) | Özyeğin University | AI, Robotics, Engineering, Data Science, Mathematics and related fields | Undergraduate students; requirements vary by project | ✅ Yes — students from different countries |
 
 
+## 🇦🇪 United Arab Emirates
+
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [Undergraduate Research Internship Program (UGRIP)](https://mbzuai.ac.ae/ugrip/) | Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) | AI, Computer Science, Machine Learning, Computer Vision, NLP, Robotics and Data Science | Undergraduate STEM students with strong academic standing | ✅ Yes — worldwide |
 
 
+## 🇬🇧 United Kingdom
 
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [Cambridge Amgen Scholars Programme](https://amgenscholars.bio.cam.ac.uk/) | University of Cambridge | Biology, Biotechnology, Biochemistry and related Life Sciences | Undergraduate students studying at universities across eligible European countries | ✅ Yes — eligible European universities |
+| [Sanger Prize Competition](https://www.sanger.ac.uk/about/study/the-sanger-prize-competition-2026/) | Wellcome Sanger Institute | Genomics, Bioinformatics, Biology, Medicine and Veterinary Science | Undergraduate students studying in an eligible low- or middle-income country | ✅ Yes — eligible countries only |
+| [Summer Student Training Programme](https://www.crick.ac.uk/careers-and-study/students/summer-students) | Francis Crick Institute | Biomedical Sciences, Biology, Bioinformatics and related fields | Undergraduate students with at least one year remaining in their degree | ⚠️ Must study at a UK university and have the right to live and work or study in the UK |
+| [IPLS Undergraduate Summer Research Studentships](https://www.ucl.ac.uk/mathematical-physical-sciences/physics-living-systems/study-training/ipls-undergraduate-summer-research-studentships-2026) | University College London (UCL) | Biology, Physics, Chemistry, Engineering and Computer Science | Undergraduate students in the second, third or fourth year of their first degree | ⚠️ International students studying at a UK university |
+| [Summer Research Programme](https://www.cruk.cam.ac.uk/students/undergraduate-summer-research-programme/) | Cancer Research UK Cambridge Institute | Cancer Research, Biology, Bioinformatics and related fields | Undergraduate students interested in pursuing research or PhD study | ⚠️ UK university students; a separate limited route is available for eligible East African students |
 
+## 🇺🇸 United States
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Program | Institution | Fields | Eligibility | International Students |
+|---|---|---|---|---|
+| [Summer Undergraduate Research Fellowships (SURF)](https://sfp.caltech.edu/undergraduate-research/programs/surf) | California Institute of Technology (Caltech) | Computer Science, Engineering, Mathematics and Natural Sciences | Continuing undergraduate students who have completed at least 1 year of study | ✅ Yes — worldwide |
+| [Undergraduate Visiting Research Program](https://engineering.stanford.edu/students-academics/global-engineering-programs/undergraduate-visiting-research-program) | Stanford University | Engineering, Computer Science and related STEM fields | Undergraduate students nominated by selected international partner universities | ⚠️ Partner universities only |
+| [Research in Industrial Projects for Students (RIPS-LA)](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2026-los-angeles/) | University of California, Los Angeles (UCLA) | Mathematics, Computer Science, Data Analysis and Applied Research | Undergraduate students and recent bachelor’s graduates | ⚠️ International students currently studying in the United States only |
 
 
 ## Disclaimer
 
-This repository is an independent, community-curated resource and is not affiliated with or endorsed by any listed institution. Program details may change. Always verify eligibility and application requirements on the official program website before applying.
+This repository is an independent, community-curated directory and is not
+affiliated with or endorsed by any listed institution.
 
+Eligibility, funding, deadlines, visa requirements and programme availability
+may change. Always verify all information on the official programme website
+before applying. Inclusion in this repository does not guarantee eligibility,
+funding, admission or visa approval.
 
-
-
+_Last verified: July 2026._
